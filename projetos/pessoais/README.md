@@ -1,0 +1,1 @@
+Esta pasta é destinada ao armazenamento de projetos pessoais, exercícios práticos e estudos independentes desenvolvidos com o objetivo de aprimorar conhecimentos na área de tecnologia e desenvolvimento de software.
