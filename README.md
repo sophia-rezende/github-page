@@ -19,3 +19,6 @@ Este projeto tem como objetivo apresentar:
 
 ### Pessoais
 - Projetos independentes e estudos
+
+## Acesso ao projeto
+https://sophia-rezende.github.io/github-page/
